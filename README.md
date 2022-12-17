@@ -6,4 +6,4 @@
 
 ### Интерфейс программы
 
-![Interface](https://github.com/eCoolGe/TimeToSpeedAndSize/raw/master/Properties/interface.png)
+![Interface](https://github.com/eCoolGe/TimeToSpeedAndSize/blob/master/TimeToSpeedAndSize/Properties/interface.png)
